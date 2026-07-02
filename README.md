@@ -13,7 +13,7 @@ I'm a passionate engineering student who enjoys solving real-world problems thro
 - 👯 **I'm looking to collaborate on:** Data Science, AI/ML, IoT, and Open Source Projects
 - 🤝 **I'm looking for help with:** MLOps, Deep Learning, and Large-Scale Data Engineering
 - 💬 **Ask me about:** Python, Data Science, ESP32, Arduino, C++, Git & GitHub
-- 📫 **How to reach me:** your-email@example.com
+- 📫 **How to reach me:** ahirwarrohit308@gmail.com
 - 🎯 **Career Goal:** Become a Data Scientist while building expertise in AI, Cloud, and Intelligent Embedded Systems
 - ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights and ideas into real-world projects.
 
