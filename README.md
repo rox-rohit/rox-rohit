@@ -1,4 +1,24 @@
+# 💫 Hi 👋, I'm Rohit Ahirwar
+### 🚀 Electronics & Telecommunication Engineering Student | Data Science Enthusiast | Embedded Systems & IoT Developer
 
+I'm a passionate engineering student who enjoys solving real-world problems through **Data Science, Machine Learning, Python, and Embedded Systems**. I love building intelligent applications by combining software with hardware and am always eager to learn new technologies.
+
+📧 **Email:** ahirwarrohit308@gmail.com    
+🌐 **LinkedIn:** www.linkedin.com/in/roxrohit
+
+---
+
+- 🔭 **I'm currently working on:** Contactless Robotic Gripper using ESP32 & Computer Vision
+- 🌱 **I'm currently learning:** Data Science, Machine Learning, Cloud Computing, and Advanced Python
+- 👯 **I'm looking to collaborate on:** Data Science, AI/ML, IoT, and Open Source Projects
+- 🤝 **I'm looking for help with:** MLOps, Deep Learning, and Large-Scale Data Engineering
+- 💬 **Ask me about:** Python, Data Science, ESP32, Arduino, C++, Git & GitHub
+- 📫 **How to reach me:** your-email@example.com
+- 🎯 **Career Goal:** Become a Data Scientist while building expertise in AI, Cloud, and Intelligent Embedded Systems
+- ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights and ideas into real-world projects.
+
+---
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r0x.rohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roxrohit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahirwarrohit308@gmail.com) 
 
